@@ -110,5 +110,6 @@ class LrcEntry implements Comparable<LrcEntry> {
       return -1;
     }
     return (int) (time - entry.getTime());
+    jai hind
   }
 }
